@@ -1,6 +1,4 @@
 # munnakumar
-this is my first repositry
-<br>
+hello world.
 my name is munna kumar
-<br>
-my name is munna mukhiya
+apna college.
